@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 
   <!--Linguagens mais usadas img-->
   <div>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamboDark&theme=dark"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamboDark&theme=dracula"/>
   </div>
